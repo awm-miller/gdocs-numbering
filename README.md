@@ -24,7 +24,7 @@ Heading A
 Heading B
 ```
 
-Skips all lists and headers
+Skips all lists and headers. Highlight the text you want to number. Plays nicely with footnotes and formatting but there may be some formatting weirdness due to GDocs.
 
 ## Install
 
